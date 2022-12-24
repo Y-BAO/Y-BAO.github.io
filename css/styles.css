@@ -595,6 +595,7 @@ a.nav__logo, .nav__toggle {
   border-radius: .5rem;
   padding: 1.5rem;
   text-align: center;
+  align-self: center;
   box-shadow: 0 4px 6px rgba(174, 190, 205, .3);
  }
 
@@ -844,3 +845,7 @@ a.nav__logo, .nav__toggle {
   }
 
 }
+
+
+
+
